@@ -1,0 +1,9 @@
+flask
+openai
+numpy
+pandas
+redis
+requests
+ipykernel
+textract
+tiktoken
